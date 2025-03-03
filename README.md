@@ -39,7 +39,7 @@ Check the notebook for any additional required libraries.
 The project evaluates various models based on accuracy and performance metrics, selecting the most effective model for predicting wine quality.
 
 ## Contributors
-- **Your Name** (Replace with actual contributors)
+- Deb Agni Patra
 
 ## License
 This project is for educational purposes. You may modify and use it as needed.
